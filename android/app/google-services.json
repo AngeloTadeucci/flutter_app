@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950861141253",
+    "firebase_url": "https://testprojectangelo.firebaseio.com",
+    "project_id": "testprojectangelo",
+    "storage_bucket": "testprojectangelo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950861141253:android:844f0882d550e9bf24536c",
+        "android_client_info": {
+          "package_name": "com.example.teste_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950861141253-d1vf3p935s3po0naepkosuv5pl65tetk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2C8YjIhFZdR0ILE2jbJGw5IMBHzVF8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950861141253-d1vf3p935s3po0naepkosuv5pl65tetk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
